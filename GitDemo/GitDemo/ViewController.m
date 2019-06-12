@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"测试一下忽略文件好不好使");
+    
+    NSLog(@"主支");
 }
 
 
